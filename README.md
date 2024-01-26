@@ -1,4 +1,4 @@
-# Pragati
+# Cash Flow
 
 This is a flutter app to track the expenses.
 
