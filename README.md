@@ -8,7 +8,7 @@ App should be able to read messages and sort the messages that are related to ex
 App should be able to obtain data from the sorted messages such as the amount and date of transaction and categorize them into respective mode of payment.
 The obtained data should be presented in the form of graphs and charts so that the user can easily understand where money has been spend
 
-##Implementation
+## Implementation
 
 1. Collection of all SMSs received using Telephony package
 2. Separation of Expense based messages from the collected messages using regular expression.
