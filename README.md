@@ -1,4 +1,4 @@
-# pragati
+# Pragati
 
 This is a flutter app to track the expenses.
 
