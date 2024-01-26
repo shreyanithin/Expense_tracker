@@ -1,6 +1,6 @@
-# pragti
+# pragati
 
-A new Flutter project.
+This is a flutter app to track the expenses.
 
 ## Getting Started
 
